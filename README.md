@@ -15,6 +15,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 # Getting demo git
 # Getting demo git
+# Getting Started with Create React App
+# Getting demo git
+# Getting demo git
+# Getting demo git
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
